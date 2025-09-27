@@ -1,4 +1,4 @@
-# YouTube Liked Videos Auto-Scroller (robust)
+# YouTube Liked Videos Auto-Scroller
 
 This Tampermonkey userscript automatically scrolls through the YouTube **"Liked Videos" (LL) playlist** and loads all video entries.
 
